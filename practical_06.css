@@ -1,0 +1,43 @@
+*{margin: 0;
+   padding: 0;}
+   body{
+    background-image: url("image/abes image.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(5px);
+   }
+   h1{
+    font-family: fantasy;
+    color: darkgreen;
+    text-align: center;
+   }
+   .content_box{
+    background-image: url("image/logo-9.webp");
+    background-size: cover;
+    padding: 10px;
+    margin: auto;
+    border-radius: 20px;
+    width: 60%;
+    height: 200%;
+   }
+   p{
+    font-style: italic;
+    color: rgb(239, 198, 32);
+    text-align: center;
+   }
+   h2{
+    font-style: italic;
+    color: rgb(119, 7, 7);
+    text-align: center;
+   }
+   .button{
+    background-color: darkseagreen;
+    color: bisque;
+    padding: 10px 20px;
+    text-decoration: underline;
+    display: inline;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+   }
